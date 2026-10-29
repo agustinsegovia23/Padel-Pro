@@ -12,12 +12,12 @@
               <div class="carousel-inner">
                     <div class="carousel-item active">
                         <img src="<?= base_url('assets/img/carrousel-1.jpg'); ?>" class="d-block w-100" alt="Padel Pro Dynamic Action" style="height: 420px; object-fit: cover;">
-                        <div class="carousel-caption d-none d-md-block bg-dark bg-opacity-75 rounded p-3 mb-4 text-center">
+                        <div class="carousel-caption d-block bg-dark bg-opacity-75 rounded p-3 mb-4 text-center">
                             <div class="col-lg-10 mx-auto">
-                                <h1 class="display-5 fw-bold text-white mb-2">Conviértete en leyenda del pádel</h1>
-                                <p class="lead text-light mb-3">Viví la historia de Alex, un jugador que lucha por regresar al circuito profesional tras una lesión que cambió su vida.</p>
+                                <h1 class="fw-bold text-white mb-1 mb-md-2 fs-5 fs-md-3">Conviértete en leyenda del pádel</h1>
+                                <p class="text-light small mb-2">Viví la historia de Alex, un jugador que lucha por regresar al circuito profesional tras una lesión que cambió su vida.</p>
                                 <div class="d-flex justify-content-center gap-3 mt-2">
-                                    <a href="<?= base_url('index.php/paginas/usuario'); ?>" class="btn btn-cta-comprar">Comprar Juego</a>
+                                    <a href="<?= base_url('index.php/paginas/usuario'); ?>" class="btn btn-cta-comprar btn-sm px-3 py-1">Comprar Juego</a>
                                 </div>
                             </div>
                         </div>
@@ -25,12 +25,12 @@
 
                     <div class="carousel-item">
                         <img src="<?= base_url('assets/img/carrousel-2.jpg'); ?>" class="d-block w-100" alt="Padel Pro Strike Power" style="height: 420px; object-fit: cover;">
-                        <div class="carousel-caption d-none d-md-block bg-dark bg-opacity-75 rounded p-3 mb-4 text-center">
+                        <div class="carousel-caption d-block bg-dark bg-opacity-75 rounded p-3 mb-4 text-center">
                             <div class="col-lg-10 mx-auto">
-                                <h1 class="display-5 fw-bold text-white mb-2">Supera tus límites en la cancha</h1>
-                                <p class="lead text-light mb-3">Combina partidos intensos de pádel con decisiones narrativas que afectarán el desarrollo de tu historia.</p>
+                                <h1 class="fw-bold text-white mb-1 mb-md-2 fs-5 fs-md-3">Explora el universo visual de Padel Pro</h1>
+                                <p class="text-light small mb-2">Sumérgete en nuestra galería de capturas oficiales, videos exclusivos de gameplay y bocetos de desarrollo.</p>
                                 <div class="d-flex justify-content-center gap-3 mt-2">
-                                    <a href="<?= base_url('index.php/paginas/gameplay'); ?>" class="btn btn-cta-comprar">Ver mecánicas de juego</a>
+                                    <a href="<?= base_url('index.php/paginas/multimedia'); ?>" class="btn btn-cta-comprar btn-sm px-3 py-1">Ver centro multimedia</a>
                                 </div>
                             </div>
                         </div>

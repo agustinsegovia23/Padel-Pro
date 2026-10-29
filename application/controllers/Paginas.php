@@ -44,4 +44,11 @@ class Paginas extends CI_Controller {
         $this->load->view('paginas/usuario');
         $this->load->view('templates/footer');
     }
+
+    public function multimedia()
+    {
+        $this->load->view('templates/header');
+        $this->load->view('paginas/multimedia');
+        $this->load->view('templates/footer');
+    }
 }

@@ -23,6 +23,7 @@
                     <li class="nav-item"><a class="nav-link" href="<?= base_url(); ?>">Inicio</a></li>
                     <li class="nav-item"><a class="nav-link" href="<?= base_url('index.php/paginas/historia'); ?>">Historia</a></li>
                     <li class="nav-item"><a class="nav-link" href="<?= base_url('index.php/paginas/gameplay'); ?>">Gameplay</a></li>
+                    <li class="nav-item"><a class="nav-link" href="<?= base_url('index.php/paginas/multimedia'); ?>">Multimedia</a></li>
                     <li class="nav-item"><a class="nav-link" href="<?= base_url('index.php/paginas/personajes'); ?>">Personajes</a></li>
                     <li class="nav-item"><a class="nav-link" href="<?= base_url('index.php/paginas/contacto'); ?>">Contacto</a></li>
                     <li class="nav-item ms-2"><a class="btn btn-warning text-dark fw-bold px-3" href="<?= base_url('index.php/paginas/usuario'); ?>">Iniciar Sesión</a></li>
