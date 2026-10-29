@@ -19,7 +19,7 @@ _Padel Pro_ es una simulación deportiva y aventura narrativa centrada en la sup
 - **Historia:** Sinopsis y narrativa del videojuego.
 - **Gameplay:** Explicación de mecánicas y física de juego.
 - **Personajes:** Fichas y perfiles de los personajes.
-- **Multimedia:** Galería de capturas y contenido audiovisual. //Todavia falta esta sección//
+- **Multimedia:** Galería de capturas y contenido audiovisual.
 - **Contacto y Comunidad:** Redes sociales oficiales y formulario de contacto.
 - **Área de Usuario:** Secciones de inicio de sesión y registro.
 
